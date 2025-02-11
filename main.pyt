@@ -1,1 +1,2 @@
-juli = 20
+juli = 1
+dani = 30
